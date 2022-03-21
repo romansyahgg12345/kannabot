@@ -11,10 +11,11 @@ handler.tags = ['hentai']
 handler.command = /^yuri$/i
 handler.owner = false
 handler.mods = false
-handler.premium = true
+handler.limit = true
 handler.group = false
 handler.private = false
-handler.limit = false
+
+handler.limit = false
 handler.admin = false
 handler.botAdmin = false
 
